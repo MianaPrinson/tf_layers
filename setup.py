@@ -6,6 +6,7 @@ platform_specific_packages = {
     "linux": ["tensorflow>=2.4"],
     "cywin": ["tensorflow>=2.4"],
     "win3D": ["tensorflow>=2.4"],
+    "win32" :{},
 }
 
 setup(
